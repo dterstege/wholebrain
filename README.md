@@ -1,3 +1,12 @@
+WHOLEBRAIN RATLAS
+=================
+
+EDITS BY DTERSTEGE TO MAIN WHOLEBRAIN REPO
+
+Only edits are to the atlas itself. Rather than use the Allen Mouse Brain Atlas which is standard to the wholebrain software suite, I have replaced them with plates from the Paxinos and Watson Rat Brain Atlas (4th Ed.)
+
+Program renamed so that it won't interfere with concurrent installations of the traditional wholebrain suite. 
+
 WholeBrain
 =========
 
