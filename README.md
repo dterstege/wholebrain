@@ -6,7 +6,9 @@ EDITS BY DTERSTEGE TO FORKED WHOLEBRAIN REPO
 Only edits are to the atlas itself. Rather than use the Allen Mouse Brain Atlas which is standard to the wholebrain software suite, I have replaced them with plates from the Paxinos and Watson Rat Brain Atlas (4th Ed.)
 
 Atlas orientations currently supported:
+
 [] Coronal
+
 [] Sagittal
 
 Program renamed so that it won't interfere with concurrent installations of the traditional wholebrain suite. 
@@ -14,8 +16,11 @@ Program renamed so that it won't interfere with concurrent installations of the 
 Please cite the WholeBrain software suite as you normally would. This fork was simply made for my own convenience.
 
 Dylan Terstege ([@dterstege](https://twitter.com/dterstege))
+
 <dylan.terstege@ucalgary.ca>
+
 PhD Candidate
+
 University of Calgary
 
 WholeBrain
